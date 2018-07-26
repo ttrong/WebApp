@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AMScrollingNavbar (5.0.2)
+  - EVURLCache (3.4.0)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AMScrollingNavbar
+  - EVURLCache
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AMScrollingNavbar
+    - EVURLCache
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AMScrollingNavbar: d941641a4b05c329e6050ab19e54105ba3785471
+  EVURLCache: f3359af22761e86f7e3fba26761b77cb27c4dcea
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: e7ef6433dc68966fd4bf0ec8ad96301a16303cb8
+
+COCOAPODS: 1.5.3
